@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b90d5a0c-9612-4661-8c1e-8a3e89fa81f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/food-catelog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-catelog/src/main/java/com/example/foodcatelog/controller/FoodCatalogueController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-catelog/src/main/java/com/example/foodcatelog/dto/FoodCataloguePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-catelog/src/main/java/com/example/foodcatelog/dto/FoodItemDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-catelog/src/main/java/com/example/foodcatelog/dto/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-catelog/src/main/java/com/example/foodcatelog/entity/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-catelog/src/main/java/com/example/foodcatelog/mapper/FoodItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-catelog/src/main/java/com/example/foodcatelog/repository/FoodItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-catelog/src/main/java/com/example/foodcatelog/service/FoodCatalogueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/restaurant/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/restaurant/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/restaurant/src/main/java/com/example/restaurant/controller/RestaurantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/restaurant/src/main/java/com/example/restaurant/controller/RestaurantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/restaurant/src/main/java/com/example/restaurant/dto/RestaurantDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/restaurant/src/main/java/com/example/restaurant/dto/RestaurantDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/restaurant/src/main/java/com/example/restaurant/entity/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/restaurant/src/main/java/com/example/restaurant/entity/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/restaurant/src/main/java/com/example/restaurant/service/RestaurantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/restaurant/src/main/java/com/example/restaurant/service/RestaurantService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant/target/generated-sources/annotations/com/example/restaurant/mapper/RestaurantMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant/target/generated-sources/annotations/com/example/restaurant/mapper/RestaurantMapperImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="REBUILD_ON_DEPENDENCY_CHANGE" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+    <option name="myAllFileTypesSelected" value="false" />
+    <option name="mySelectedFileTypes">
+      <set>
+        <option value="JAVA" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2d34QL7U57vK3j8Oftz8kHXCey3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.FoodCatelogApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/courses/Spring boot/Java/food-catelog&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b90d5a0c-9612-4661-8c1e-8a3e89fa81f3" name="Changes" comment="" />
+      <created>1709223410618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709223410618</updated>
+    </task>
+    <servers />
+  </component>
+</project>

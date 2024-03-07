@@ -25,14 +25,15 @@ public class RestaurantService {
     }
 
     public RestaurantDTO store(RestaurantDTO restaurantDTO) {
-        Restaurant restaurant = RestaurantMapper.INTERFACE.mapRestaurantDTOtoRestaurant(restaurantDTO);
+        Restaurant restaurant = repository.save(RestaurantMapper.INTERFACE.mapRestaurantDTOtoRestaurant(restaurantDTO));
+
         return RestaurantMapper.INTERFACE.mapRestauranttoRestaurantDTO(restaurant);
     }
 
     public ResponseEntity<RestaurantDTO> fetchById(Integer id) {
         Optional<Restaurant> restaurant = repository.findById(id);
         if (restaurant.isPresent()) {
-            return new ResponseEntity<>(RestaurantMapper.INTERFACE.mapRestauranttoRestaurantDTO(restaurant.get()), HttpStatus.Ok);
+            return new ResponseEntity<>(RestaurantMapper.INTERFACE.mapRestauranttoRestaurantDTO(restaurant.get()), HttpStatus.OK);
         } else {
             return new ResponseEntity<>(null, HttpStatus.NOT_FOUND);
         }
