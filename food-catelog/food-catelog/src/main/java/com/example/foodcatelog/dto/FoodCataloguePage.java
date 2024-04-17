@@ -1,15 +1,14 @@
 package com.example.foodcatelog.dto;
 
 import com.example.foodcatelog.entity.FoodItem;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import java.util.List;
 
+@Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Data
+
 public class FoodCataloguePage {
 
     private List<FoodItem> foodItemList;

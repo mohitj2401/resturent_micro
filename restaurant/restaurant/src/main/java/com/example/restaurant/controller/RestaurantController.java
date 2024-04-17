@@ -29,7 +29,7 @@ public class RestaurantController {
 
     @PostMapping
     ResponseEntity<RestaurantDTO> storeRestaurant(@RequestBody RestaurantDTO restaurantDTO) {
-        logger.info(restaurantDTO.getAddress());
+      
         RestaurantDTO restaurant = restaurantService.store(restaurantDTO);
         return new ResponseEntity<>(restaurant, HttpStatus.CREATED);
     }
